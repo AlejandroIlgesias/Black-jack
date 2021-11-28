@@ -1,10 +1,12 @@
 # Black-jack
 
-Dirección del repositorio:[Black-jack.git](https://github.com/AlejandroIlgesias/)
+Dirección del repositorio:[Black-jack.git](https://github.com/AlejandroIlgesias/).
+
 El programa que aqui se muestra comienza creando una baraja y colocando un dealer(el crupier)y un visitor (el jugador),cuyas clases son todas.
 El código del que hablamos se muestra a continuación:
 
-///from random import choice, sample
+'''
+from random import choice, sample
  
 cartas = {
    chr(0x1f0a1): 11,
