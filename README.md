@@ -3,7 +3,7 @@
 Dirección del repositorio:[Black-jack.git](https://github.com/AlejandroIlgesias/).
 
 <br>
-<img height="500" src="https://github.com/AlejandroIlgesias/Black-jack/blob/main/Diagrama%20de%20flujodel%20black%20jack.drawio.png" />
+<img height="2000" src="https://github.com/AlejandroIlgesias/Black-jack/blob/main/Diagrama%20de%20flujodel%20black%20jack.drawio.png" />
 <br>
 
 El programa que aqui se muestra comienza creando una baraja y colocando un dealer (el crupier) y un visitor (el jugador), cuyas clases son todas.
