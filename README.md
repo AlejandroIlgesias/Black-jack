@@ -5,7 +5,7 @@ Dirección del repositorio:[Black-jack.git](https://github.com/AlejandroIlgesias
 El programa que aqui se muestra comienza creando una baraja y colocando un dealer(el crupier)y un visitor (el jugador),cuyas clases son todas.
 El código del que hablamos se muestra a continuación:
 
-'''
+```
 from random import choice, sample
  
 cartas = {
@@ -51,5 +51,6 @@ main_banca = sample(lista_cartas, 2)
 score_banca = sum(cartas[carta] for carta in main_banca)
 print ("La banca tiene: {} {} >> su score es {}".format (main_banca[0],
                                                            main_banca[1],
-                                                           score_banca))///
+                                                           score_banca))
+```
                                
